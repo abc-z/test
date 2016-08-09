@@ -1,1 +1,3 @@
+NEW_LINE
+
 TEST
